@@ -2,7 +2,7 @@
 Power BI dashboard analyzing hotel booking data for Velora Hotel — covering revenue, cancellations, occupancy, loyalty segments, and booking channel performance.
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+https://github.com/VishalYoMama/hotel-booking-analysis-powerbi/blob/main/power-bi-dashboard.png
 
 ## Key Metrics
 | Metric | Value |
@@ -40,4 +40,4 @@ Power BI dashboard analyzing hotel booking data for Velora Hotel — covering re
 
 ## How to Open
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop)
-2. Open `power_bi_project.pbix`
+2. Open 
