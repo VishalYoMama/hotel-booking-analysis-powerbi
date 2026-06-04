@@ -40,4 +40,4 @@ https://github.com/VishalYoMama/hotel-booking-analysis-powerbi/blob/main/power-b
 
 ## How to Open
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop)
-2. Open 
+2. Open power bi project.pbix
